@@ -33,9 +33,7 @@ Quasar- Also known as AGN (Active galactic nucleus) quasar, short for "quasi-ste
 Star-A star is a celestial object primarily composed of hydrogen and helium, undergoing nuclear fusion in its core, emitting light and heat. Stars are the fundamental building blocks of galaxies, including our own Milky Way. They vary in size, temperature, and luminosity, and their life cycles influence the universe's evolution and dynamics.
 
 # Data Visualisation
-For the text dataset, we analysed and dataset and plotted graphs which are given in the following.
-
-
+For the text dataset, we analysed and dataset and plotted graphs which are given in the following
 
 
 # Model Training 
